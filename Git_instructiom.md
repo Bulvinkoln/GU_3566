@@ -18,4 +18,3 @@
 - __*git merge*__ - слияние веток
 - __*git push*__ – отправляет локальную версию репозитория на внешний
 
-[MD_instructiom](md_instructiom.md)

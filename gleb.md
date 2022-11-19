@@ -5,3 +5,4 @@
 5. git checkout
 6. git clone
 7. git remote --v
+8. git push -u origin VETKA

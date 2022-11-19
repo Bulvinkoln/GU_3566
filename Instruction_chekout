@@ -1,0 +1,3 @@
+Creating new branch
+TO create new branch, You need to use command "chekout" with "-b"
+Example: git checkout -b <name of new branch>

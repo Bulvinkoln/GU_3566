@@ -7,3 +7,8 @@
 
 ### Проверка статуса репозитория
 *git status*
+
+### Внесение изменений однострочным сообщением или через редактор
+*git commit -m "Your short summary about the commit"*
+*git commit*
+
